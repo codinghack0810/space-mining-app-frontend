@@ -1,0 +1,81 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DMSans-Regular.ttf",
+      "sha1": "ac9a042a40e49e8cdbfe0e64e84d9b1c5724e98d"
+    },
+    {
+      "path": "assets/fonts/DMSans_24pt-BoldItalic.ttf",
+      "sha1": "af0cdc0b51b4c85fc6174e594d7c4e7a3fe939d1"
+    },
+    {
+      "path": "assets/fonts/DMSans_36pt-BoldItalic.ttf",
+      "sha1": "75c160d736ba8f9f4847fbad2bd0c6be78dda1d0"
+    },
+    {
+      "path": "assets/fonts/HeliosExt-Bold.otf",
+      "sha1": "0fe6d9bf65f7f91c9a8f8aa773a4595e1127aa65"
+    },
+    {
+      "path": "assets/fonts/HeliosExt.otf",
+      "sha1": "694e3aee9e4fcd46078c34b71c96c029d2f0fa90"
+    },
+    {
+      "path": "assets/fonts/Lato-Bold.ttf",
+      "sha1": "542498221d97bee5bdbccf86ee8890bf8e8005c9"
+    },
+    {
+      "path": "assets/fonts/Lato-Regular.ttf",
+      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
+    },
+    {
+      "path": "assets/fonts/NeueMontreal-Bold.otf",
+      "sha1": "8a9ff2b61316994234dae5eaaaa2b99de1b29205"
+    },
+    {
+      "path": "assets/fonts/NeueMontreal-Medium.otf",
+      "sha1": "a1fde8e729ce0e78511dc692c8390836db6b8d92"
+    },
+    {
+      "path": "assets/fonts/NotoSans-Black.ttf",
+      "sha1": "e4fcce5b00d2e862dd85ac603828b174504edd2d"
+    },
+    {
+      "path": "assets/fonts/NotoSans-Regular.ttf",
+      "sha1": "48a8a4666136b01990837565613f7b7911d0093f"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "assets/fonts/Pridi-Bold.ttf",
+      "sha1": "25666d95f577c083a30f5c8b056df05dcd07237f"
+    },
+    {
+      "path": "assets/fonts/Pridi-ExtraLight.ttf",
+      "sha1": "af7e484c3db13eca780ddb53a77aa6994adca8cb"
+    },
+    {
+      "path": "assets/fonts/Pridi-Light.ttf",
+      "sha1": "8f5d81a112d1962ee72938d3d3132562e4e9abff"
+    },
+    {
+      "path": "assets/fonts/Pridi-Medium.ttf",
+      "sha1": "b0418fd6cba311e5249df6daf9cb35dec31bd978"
+    },
+    {
+      "path": "assets/fonts/Pridi-Regular.ttf",
+      "sha1": "d289ab215baa2a0b71a2fcecd83b295a7ea2d581"
+    },
+    {
+      "path": "assets/fonts/Pridi-SemiBold.ttf",
+      "sha1": "ccaca7cd7dac7f081b31562dd908f3e5dd27dcd6"
+    },
+    {
+      "path": "assets/fonts/SuezOne-Regular.ttf",
+      "sha1": "8578ca6ddd359b5bd8963e897004fe306356dc13"
+    }
+  ]
+}
